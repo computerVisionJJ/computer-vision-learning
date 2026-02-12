@@ -6,4 +6,4 @@
 - Saved detection results to disk
 
 ## Commands Run
-- yolo predict model=yolov8n.pt source=images/3.jpg
+- yolo predict model=yolov8n.pt source=images/test.jpg
