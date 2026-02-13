@@ -17,3 +17,6 @@ cv2.imshow("Edges", edges)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+cv2.imwrite("outputs/day13_blur.jpg", blur)
+cv2.imwrite("outputs/day13_edges.jpg", edges)
