@@ -6,4 +6,8 @@
 - Saved detection results to disk
 
 ## Commands Run
+<<<<<<< HEAD
 - yolo predict model=yolov8n.pt source=images/test.jpg
+=======
+- yolo predict model=yolov8n.pt source=images/test.jpg
+>>>>>>> a7dd03f (Day 13: Add blur and edge detection example)
